@@ -1,5 +1,5 @@
 {
-"products": {
+"products": [
 {"id":1,"name":"Macaque, pig-tailed","category":"Turquoise"},
 {"id":2,"name":"Cape white-eye","category":"Teal"},
 {"id":3,"name":"Langur, hanuman","category":"Turquoise"},
@@ -20,5 +20,5 @@
 {"id":18,"name":"Fat-tailed dunnart","category":"Aquamarine"},
 {"id":19,"name":"Flamingo, chilean","category":"Pink"},
 {"id":20,"name":"Red meerkat","category":"Aquamarine"}
-}
+]
 }
